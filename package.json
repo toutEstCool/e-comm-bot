@@ -4,8 +4,8 @@
   "description": "This is Telegram e-commerce Bot for Ogogo Academy",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
-    "start": "tsc ./dist/app.js",
+    "build": "tsc ",
+    "start": "node ./dist/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
